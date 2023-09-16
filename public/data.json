@@ -1,10 +1,10 @@
 [
     {
       "id": 1,
-      "course_title": "Introduction to Programming",
+      "course_title": "Introduction Programming",
       "course_img": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8UHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
       "credit": 3,
-      "details": "Learn the basics of programming with this introductory course.",
+      "details": "Learn the basics of programming with this course.",
       "price": 49.99
     },
     {
@@ -12,7 +12,7 @@
       "course_title": "Web Development",
       "course_img": "https://images.unsplash.com/photo-1590608897129-79da98d15969?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHdlYiUyMGRldnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "credit": 4,
-      "details": "Build your foundation in web development with HTML, CSS, and JavaScript.",
+      "details": "Build your foundation in web development with HTML, CSS.",
       "price": 69.99
     },
     {
@@ -60,7 +60,7 @@
       "course_title": "Business Management 101",
       "course_img": "https://img.freepik.com/free-vector/management-round-isometric-composition_98292-7514.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
       "credit": 3,
-      "details": "Get a comprehensive overview of business management principles.",
+      "details": "Get a comprehensive overview of business management.",
       "price": 49.99
     },
     {
@@ -76,7 +76,7 @@
       "course_title": "Financial Planning and Investments",
       "course_img": "https://img.freepik.com/free-photo/map-lying-wooden-table_53876-23515.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
       "credit": 3,
-      "details": "Learn how to manage your finances and make smart investments.",
+      "details": "Learn how to manage your finances and make smart.",
       "price": 59.99
     },
     {
@@ -108,15 +108,15 @@
       "course_title": "Economics for Everyone",
       "course_img": "https://img.freepik.com/free-photo/burnt-matches-arrangement-with-economy-word_23-2148783093.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
       "credit": 3,
-      "details": "Understand the fundamentals of economics and its impact on society.",
+      "details": "Understand the fundamentals of economics and its impact .",
       "price": 49.99
     },
     {
       "id": 15,
-      "course_title": "Yoga and Meditation Practices",
+      "course_title": "Yoga-Meditation Practices",
       "course_img": "https://img.freepik.com/free-vector/flat-design-online-yoga-class-concept_23-2148552790.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
       "credit": 2,
-      "details": "Improve your physical and mental well-being with yoga and meditation.",
+      "details": "Improve your physical and mental well-being with yoga.",
       "price": 29.99
     }
   ]
