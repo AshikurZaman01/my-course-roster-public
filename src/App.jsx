@@ -15,18 +15,14 @@ function App() {
      {/* header section end*/}
 
      {/* main section */}
-      <div className='flex'>
+      <div className='md:flex w-full mx-auto gap-4 rounded'>
      
      {/* Course section */}
-        <div>
           <Courses></Courses>
-        </div>
      {/* Course section end*/}
 
      {/* Cart section */}
-     <div>
        <Cart></Cart>
-     </div>
      {/* Cart section end*/}
       </div>
      {/* main section end*/}
