@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "course_title": "Introduction to Programming",
+      "course_img": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8UHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "credit": 3,
+      "details": "Learn the basics of programming with this introductory course.",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "course_title": "Web Development Fundamentals",
+      "course_img": "https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "credit": 4,
+      "details": "Build your foundation in web development with HTML, CSS, and JavaScript.",
+      "price": 69.99
+    },
+    {
+      "id": 3,
+      "course_title": "Data Science Essentials",
+      "course_img": "https://www.certybox.com/wp-content/webpc-passthru.php?src=https://www.certybox.com/wp-content/uploads/2021/02/datascience-certybox-training-470x300.png&nocache=1",
+      "credit": 5,
+      "details": "Discover the key concepts of data science and analysis.",
+      "price": 79.99
+    },
+    {
+      "id": 4,
+      "course_title": "Graphic Design Masterclass",
+      "course_img": "https://img.freepik.com/free-vector/flat-world-graphics-day-illustration_23-2148880103.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+      "credit": 4,
+      "details": "Unlock your creativity and become a graphic design pro.",
+      "price": 59.99
+    },
+    {
+      "id": 5,
+      "course_title": "Artificial Intelligence Fundamentals",
+      "course_img": "https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-concept_127544-854.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+      "credit": 5,
+      "details": "Dive into the world of AI and machine learning.",
+      "price": 89.99
+    },
+    {
+      "id": 6,
+      "course_title": "Photography for Beginners",
+      "course_img": "https://img.freepik.com/free-vector/children-photographers_23-2147533911.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+      "credit": 2,
+      "details": "Learn how to take stunning photos with your camera or smartphone.",
+      "price": 39.99
+    },
+    {
+      "id": 7,
+      "course_title": "Digital Marketing Mastery",
+      "course_img": "https://img.freepik.com/free-photo/digital-marketing-with-icons-business-people_53876-94833.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+      "credit": 4,
+      "details": "Master the art of online marketing and advertising.",
+      "price": 79.99
+    },
+    {
+      "id": 8,
+      "course_title": "Business Management 101",
+      "course_img": "https://img.freepik.com/free-vector/management-round-isometric-composition_98292-7514.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+      "credit": 3,
+      "details": "Get a comprehensive overview of business management principles.",
+      "price": 49.99
+    },
+    {
+      "id": 9,
+      "course_title": "Mobile App Development",
+      "course_img": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+      "credit": 5,
+      "details": "Build your own mobile apps for Android and iOS.",
+      "price": 69.99
+    },
+    {
+      "id": 10,
+      "course_title": "Financial Planning and Investments",
+      "course_img": "https://img.freepik.com/free-photo/map-lying-wooden-table_53876-23515.jpg?size=626&ext=jpg&ga=GA1.1.1729353853.1694824787&semt=ais",
+      "credit": 3,
+      "details": "Learn how to manage your finances and make smart investments.",
+      "price": 59.99
+    },
+    {
+      "id": 11,
+      "course_title": "Video Editing Fundamentals",
+      "course_img": "https://img.freepik.com/free-vector/technology-video-editing-flyer-template_82472-466.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+      "credit": 2,
+      "details": "Edit and enhance videos like a pro with this course.",
+      "price": 39.99
+    },
+    {
+      "id": 12,
+      "course_title": "Cybersecurity Essentials",
+      "course_img": "https://img.freepik.com/free-photo/man-working-banner-network-graphic-overlay-floor_53876-121141.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+      "credit": 4,
+      "details": "Protect your digital assets with essential cybersecurity knowledge.",
+      "price": 69.99
+    },
+    {
+      "id": 13,
+      "course_title": "Creative Writing Workshop",
+      "course_img": "https://img.freepik.com/free-psd/horizontal-banner-creative-pottery-workshop-with-woman_23-2148957413.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+      "credit": 2,
+      "details": "Unlock your creative writing potential in this workshop.",
+      "price": 29.99
+    },
+    {
+      "id": 14,
+      "course_title": "Economics for Everyone",
+      "course_img": "https://img.freepik.com/free-photo/burnt-matches-arrangement-with-economy-word_23-2148783093.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+      "credit": 3,
+      "details": "Understand the fundamentals of economics and its impact on society.",
+      "price": 49.99
+    },
+    {
+      "id": 15,
+      "course_title": "Yoga and Meditation Practices",
+      "course_img": "https://img.freepik.com/free-vector/flat-design-online-yoga-class-concept_23-2148552790.jpg?size=626&ext=jpg&ga=GA1.2.1729353853.1694824787&semt=ais",
+      "credit": 2,
+      "details": "Improve your physical and mental well-being with yoga and meditation.",
+      "price": 29.99
+    }
+  ]
