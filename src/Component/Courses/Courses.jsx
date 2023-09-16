@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import Course from "../Course/Course";
 
 const Courses = () => {
 
@@ -14,11 +15,11 @@ const Courses = () => {
 
     return (
        
-       <div className="md:w-4/5 bg-red-400">
-            <h3>Courses : {courses.length}</h3>
-        
-     
-        </div>
+       <div className="md:w-4/5  grid lg:grid-cols-3 mx-auto md:grid-cols-2 gap-y-20 gap-x-6">
+        {
+            courses.map(course => <Course key={course.id} course={course}></Course>)
+        }        
+            </div>
     );
 };
 

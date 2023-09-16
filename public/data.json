@@ -9,8 +9,8 @@
     },
     {
       "id": 2,
-      "course_title": "Web Development Fundamentals",
-      "course_img": "https://images.unsplash.com/photo-1624996752380-8ec242e0f85d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "course_title": "Web Development",
+      "course_img": "https://images.unsplash.com/photo-1590608897129-79da98d15969?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHdlYiUyMGRldnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "credit": 4,
       "details": "Build your foundation in web development with HTML, CSS, and JavaScript.",
       "price": 69.99
